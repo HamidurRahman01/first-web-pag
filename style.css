@@ -8,7 +8,7 @@ h1{
 .oreng-color{
     color: orange;
 }
-section{
+.Experiences{
     display: flex;
     margin-bottom: 100px;
 }
@@ -37,4 +37,17 @@ background-repeat: no-repeat;
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.azhar{
+   background-image: url(exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+.obydur{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 100px tomato
 }
